@@ -27,9 +27,8 @@
 ## 四、截图与GitHub地址
 
 
-**GitHub地址:** [[https://github.com/1989324880/1989324880/blob/main/README.md](https://github.com/chendongkai2004)]
+**GitHub地址:** [[[https://github.com/chendongkai2004](https://github.com/1989324880/1989324880/blob/main/README.md)]]
 <img width="2434" height="1454" alt="image" src="https://github.com/user-attachments/assets/80fd91fa-d448-413e-8ad7-44555386f109" />
-
 
 
 
