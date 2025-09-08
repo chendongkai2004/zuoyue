@@ -1,4 +1,3 @@
-<img width="2434" height="1454" alt="image" src="https://github.com/user-attachments/assets/80fd91fa-d448-413e-8ad7-44555386f109" />
 # 软件工程第一次作业
 
 | 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/ |
